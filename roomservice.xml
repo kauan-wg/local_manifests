@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gitlab" fetch="https://gitlab.com" />
+  <project path="kernel/motorola/exynos9610" name="LineageOS/android_kernel_motorola_exynos9610.git" remote="github" revision="lineage-18.1" />
+  <project path="device/motorola/exynos9610-common" name="LineageOS/android_device_motorola_exynos9610-common.git" remote="github" revision="lineage-17.1" />
+  <project path="vendor/motorola/exynos9610-common" name="kauan-wg/proprietary_vendor_motorola/tree/lineage-18.1/exynos9610-common" remote="gitlab" revision="lineage-18.1" />
+  <project path="vendor/motorola/kane" name="kauan-wg/proprietary_vendor_motorola/tree/lineage-18.1/kane" remote="github" revision="lineage-18.1" />
+  <project path="device/motorola/kane" name="LineageOS/android_device_motorola_kane.git" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-17.1" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib.git" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/fm" name="LineageOS/android_hardware_samsung_slsi_fm" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung.git" remote="github" revision="lineage-18.1" />
+</manifest>
